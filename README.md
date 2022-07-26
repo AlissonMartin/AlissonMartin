@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá eu sou o Alisson Martin 👋
 
-<!--
-**AlissonMartin/AlissonMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando ReactJS
+- 👯 Procuro contribuir com Javascript
+- 📫 Me contate no Linkedin: https://www.linkedin.com/in/alisson-martin-268475227
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonMartin&show_icons=true&theme=dark">
+</div>
+
+##
+
+<div>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonMartin&layout=compact"
+</div>
