@@ -1,8 +1,5 @@
 ## Olá eu sou o Alisson Martin 👋
 
-
-- 🌱 Atualmente estou estudando ReactJS
-- 👯 Procuro contribuir com Javascript
 - 📫 Me contate no Linkedin: https://www.linkedin.com/in/alisson-martin-268475227
 
 <div>
