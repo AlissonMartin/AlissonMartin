@@ -1,6 +1,6 @@
 ## Olá eu sou o Alisson Martin 👋
 
-- 📫 Me contate no Linkedin: https://www.linkedin.com/in/alisson-martin-268475227
+- 📫 Me contate no Linkedin: https://www.linkedin.com/in/alisson-martin/
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonMartin&show_icons=true&theme=dark">
